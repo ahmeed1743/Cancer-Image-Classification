@@ -52,7 +52,7 @@ This project implements a deep learning pipeline to classify cancer images into 
 - [Confusion Matrix Explanation](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
 
 ## Author
-Your Name
+Ahmed Elsayed
 
 ## License
 MIT License
